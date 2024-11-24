@@ -1,3 +1,5 @@
+![header](./assets/header.jpg)
+
 <h1>👋 Hi, I'm Alexanderius</h1>
 
 C# Developer, Musician, Manjaro Linux and VS Codium user.  
