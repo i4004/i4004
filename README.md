@@ -2,6 +2,9 @@
 
 C# Developer, Manjaro Linux and VS Codium user.  
 
+### Visitors
+![Visitor Count](https://profile-counter.glitch.me/{i4004}/count.svg)
+
 ## Top of my GitHub source repos
 
 [Simplify](https://github.com/SimplifyNet/Simplify) — an open-source set of lightweight .NET libraries that provide infrastructure for your applications. DI and mocking friendly.  
@@ -9,6 +12,16 @@ C# Developer, Manjaro Linux and VS Codium user.
 [Etcd.Microsoft.Extensions.Configuration](https://github.com/SimplifyNet/Etcd.Microsoft.Extensions.Configuration) — Etcd based configuration provider for Microsoft.Extensions.Configuration.  
 [JiraTimers](https://github.com/i4004/JiraTimers) - a desktop cross-platform tool written in C# + QML for recording time spent on different Jira issues.  
 [vscode-theme-pygment](https://github.com/i4004/vscode-theme-pygment) - Visual Studio Code dark theme.
+
+## 🛠 Tech Stack
+
+- 💻 &nbsp;  C# | C++ | QML
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Angular
+- 🛢 &nbsp; PostgreSQL | MsSQL | MySQL | Oracle
+- 🔧 &nbsp; Git | GitHub | GitLab | Docker
+- 🖥 &nbsp; Double Commander | LibreWolf | GIMP
+
+## My GitHub Stats
 
 [![fagci's github stats](https://github-readme-stats.vercel.app/api?username=i4004&show_icons=true&hide_title=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
