@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Alexanderius</h1>
 
-C# Developer, Manjaro Linux and VS Codium user.  
+C# Developer, Musician, Manjaro Linux and VS Codium user.  
 
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{i4004}/count.svg)
@@ -13,13 +13,18 @@ C# Developer, Manjaro Linux and VS Codium user.
 [JiraTimers](https://github.com/i4004/JiraTimers) - a desktop cross-platform tool written in C# + QML for recording time spent on different Jira issues.  
 [vscode-theme-pygment](https://github.com/i4004/vscode-theme-pygment) - Visual Studio Code dark theme.
 
+## Music projects
+
+[Alkenion](https://alkenion.com) | [Astrovarium](https://alkenion.com/astrovariumDiscography) | [i4004](https://alkenion.com/i4004Discography)
+
 ## 🛠 Tech Stack
 
 - 💻 &nbsp;  C# | C++ | QML
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Angular
 - 🛢 &nbsp; PostgreSQL | MsSQL | MySQL | Oracle
 - 🔧 &nbsp; Git | GitHub | GitLab | Docker
-- 🖥 &nbsp; Double Commander | LibreWolf | GIMP
+- 🖥 &nbsp; VS Codium | Double Commander | LibreWolf | GIMP
+- 〰️ &nbsp; REAPER | Kdenlive
 
 ## My GitHub Stats
 
