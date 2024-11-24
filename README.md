@@ -5,7 +5,7 @@ C# Developer, Musician, Manjaro Linux and VS Codium user.
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{i4004}/count.svg)
 
-## Top of my GitHub source repos
+## Top Of My GitHub Source Repos
 
 [Simplify](https://github.com/SimplifyNet/Simplify) — an open-source set of lightweight .NET libraries that provide infrastructure for your applications. DI and mocking friendly.  
 [Simplify.Web](https://github.com/SimplifyNet/Simplify.Web) — an open-source, lightweight, fast and highly customizable server-side .NET web-framework based on ASP.NET Core for building HTTP based web-applications, RESTful APIs etc.  
@@ -13,7 +13,7 @@ C# Developer, Musician, Manjaro Linux and VS Codium user.
 [JiraTimers](https://github.com/i4004/JiraTimers) - a desktop cross-platform tool written in C# + QML for recording time spent on different Jira issues.  
 [vscode-theme-pygment](https://github.com/i4004/vscode-theme-pygment) - Visual Studio Code dark theme.
 
-## Music projects
+## Music Projects
 
 [Alkenion](https://alkenion.com) | [Astrovarium](https://alkenion.com/astrovariumDiscography) | [i4004](https://alkenion.com/i4004Discography)
 
@@ -21,10 +21,10 @@ C# Developer, Musician, Manjaro Linux and VS Codium user.
 
 - 💻 &nbsp;  C# | C++ | QML
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Angular
-- 🛢 &nbsp; PostgreSQL | MsSQL | MySQL | Oracle
-- 🔧 &nbsp; Git | GitHub | GitLab | Docker
+- 🛢 &nbsp; PostgreSQL | MySQL
+- 🔧 &nbsp; Git | GitHub |  Docker
 - 🖥 &nbsp; VS Codium | Double Commander | LibreWolf | GIMP
-- 〰️ &nbsp; REAPER | Kdenlive
+- 〰️🎬 &nbsp; REAPER | Kdenlive
 
 ## My GitHub Stats
 
