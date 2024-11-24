@@ -17,6 +17,12 @@ C# Developer, Musician, Manjaro Linux and VS Codium user.
 
 [Alkenion](https://alkenion.com) | [Astrovarium](https://alkenion.com/astrovariumDiscography) | [i4004](https://alkenion.com/i4004Discography)
 
+## My GitHub Stats
+
+[![fagci's github stats](https://github-readme-stats.vercel.app/api?username=i4004&show_icons=true&hide_title=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i4004&layout=compact&hide_title=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛠 Tech Stack
 
 - 💻 &nbsp;  C# | C++ | QML
@@ -24,10 +30,4 @@ C# Developer, Musician, Manjaro Linux and VS Codium user.
 - 🛢 &nbsp; PostgreSQL | MySQL
 - 🔧 &nbsp; Git | GitHub |  Docker
 - 🖥 &nbsp; VS Codium | Double Commander | LibreWolf | GIMP
-- 〰️🎬 &nbsp; REAPER | Kdenlive
-
-## My GitHub Stats
-
-[![fagci's github stats](https://github-readme-stats.vercel.app/api?username=i4004&show_icons=true&hide_title=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i4004&layout=compact&hide_title=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+- ⏺ &nbsp; REAPER | Kdenlive
