@@ -29,7 +29,7 @@ C# Developer, Musician, Manjaro Linux and VS Codium user.
 
 - 💻 &nbsp;  C# | C++ | QML
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Angular
-- 🛢 &nbsp; PostgreSQL | MySQL
-- 🔧 &nbsp; Git | GitHub |  Docker
+- 🛢 &nbsp; PostgreSQL | MsSQL | Oracle
+- 🔧 &nbsp; Git | GitLab | GitHub | Bitbucket | Docker
 - 🖥 &nbsp; VS Codium | Double Commander | LibreWolf | GIMP
 - ⏺ &nbsp; REAPER | Kdenlive
