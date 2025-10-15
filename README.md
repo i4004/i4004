@@ -5,7 +5,7 @@
 C# Developer, Musician, Manjaro Linux, and VS Codium user.  
 
 ### Visitors
-![Visitor Count](https://profile-counter.glitch.me/i4004/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=i4004&label=Profile%20views&color=5ceb38)
 
 ## Top Of My GitHub Source Repos
 
