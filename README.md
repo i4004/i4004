@@ -7,7 +7,7 @@ C# Developer, Musician, Manjaro Linux, and VS Codium user.
 ### Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=i4004&label=Profile%20views&color=5ceb38)
 
-![FSF](https://static.fsf.org/nosvn/associate/crm/177565.png)
+[![FSF](https://static.fsf.org/nosvn/associate/crm/177565.png)](https://www.fsf.org)
 
 ## Top Of My GitHub Source Repos
 
