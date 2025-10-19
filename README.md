@@ -7,6 +7,8 @@ C# Developer, Musician, Manjaro Linux, and VS Codium user.
 ### Visitors
 ![Visitor Count](https://komarev.com/ghpvc/?username=i4004&label=Profile%20views&color=5ceb38)
 
+![FSF](https://static.fsf.org/nosvn/associate/crm/177565.png)
+
 ## Top Of My GitHub Source Repos
 
 [Simplify](https://github.com/SimplifyNet/Simplify) — An open-source set of lightweight .NET libraries that provide infrastructure for your applications. DI and mocking friendly.  
