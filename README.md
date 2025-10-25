@@ -29,9 +29,9 @@ C# Developer, Musician, Manjaro Linux, and VS Codium user.
 
 ## 🛠 Tech Stack
 
-- 💻 &nbsp; C# | C++ | QML
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Angular
-- 🛢 &nbsp; PostgreSQL | MsSQL | Oracle
-- 🔧 &nbsp; Git | GitLab | GitHub | Bitbucket | Docker
-- 🖥 &nbsp; VS Codium | Double Commander | LibreWolf | GIMP
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,powershell,md,npm,html,css,sass,js,angular,bootstrap,ts,svg,cpp)](https://skillicons.dev)
+
+[![My Tools](https://skillicons.dev/icons?i=vscodium,visualstudio,git,gitlab,github,arch,postgres,postman,docker,bitbucket)](https://skillicons.dev)
+
+- 🖥 &nbsp; Double Commander | LibreWolf | GIMP
 - ⏺ &nbsp; REAPER | Kdenlive
