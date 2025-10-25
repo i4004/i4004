@@ -33,5 +33,5 @@ C# Developer, Musician, Manjaro Linux, and VS Codium user.
 
 [![My Tools](https://skillicons.dev/icons?i=vscodium,visualstudio,git,gitlab,github,arch,postgres,postman,docker,bitbucket)](https://skillicons.dev)
 
-- 🖥 &nbsp; Double Commander | LibreWolf | GIMP
-- ⏺ &nbsp; REAPER | Kdenlive
+🖥 &nbsp; Double Commander | LibreWolf | GIMP  
+⏺ &nbsp; REAPER | Kdenlive
