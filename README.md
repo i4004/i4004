@@ -27,9 +27,9 @@ C# Developer, Musician, Manjaro Linux, and VS Codium user.
 
 ## My GitHub Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=i4004&show_icons=true&hide_title=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-stats-extended.vercel.app/api?username=i4004&show_icons=true&hide_title=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i4004&layout=compact&hide_title=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=i4004&layout=compact&hide_title=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Tech Stack
 
