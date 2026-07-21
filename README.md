@@ -13,6 +13,7 @@ C# Developer, Musician, Manjaro Linux, and VS Codium user.
 
 [Simplify](https://github.com/SimplifyNet/Simplify) — An open-source set of lightweight .NET libraries that provide infrastructure for your applications. DI and mocking friendly.  
 [Simplify.Web](https://github.com/SimplifyNet/Simplify.Web) — An open-source, lightweight, fast, and highly customizable server-side .NET web framework based on ASP.NET Core for building HTTP-based web applications, RESTful APIs, etc.  
+[etcd-terminal](https://github.com/SimplifyNet/etcd-terminal) - a console client for etcd v3+ with a convenient TUI based on Spectre.Console.  
 [Etcd.Microsoft.Extensions.Configuration](https://github.com/SimplifyNet/Etcd.Microsoft.Extensions.Configuration) — Etcd-based configuration provider for Microsoft.Extensions.Configuration.  
 [JiraTimers](https://github.com/i4004/JiraTimers) — A desktop cross-platform tool written in C# + QML for recording time spent on different Jira issues.  
 [vscode-theme-pygment](https://github.com/i4004/vscode-theme-pygment) — Visual Studio Code dark theme.  
@@ -32,7 +33,7 @@ C# Developer, Musician, Manjaro Linux, and VS Codium user.
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,powershell,md,npm,html,css,sass,js,angular,bootstrap,ts,svg,cpp)](https://skillicons.dev)
 
-[![My Tools](https://skillicons.dev/icons?i=vscodium,visualstudio,git,gitlab,github,windows,arch,ubuntu,postgres,postman,docker,bitbucket)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscodium,git,gitlab,github,windows,arch,ubuntu,postgres,postman,docker,bitbucket)](https://skillicons.dev)
 
 🖥 &nbsp; Double Commander | LibreWolf | GIMP  
 ⏺ &nbsp; REAPER | Kdenlive
