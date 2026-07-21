@@ -17,7 +17,9 @@ C# Developer, Musician, Manjaro Linux, and VS Codium user.
 [Etcd.Microsoft.Extensions.Configuration](https://github.com/SimplifyNet/Etcd.Microsoft.Extensions.Configuration) — Etcd-based configuration provider for Microsoft.Extensions.Configuration.  
 [JiraTimers](https://github.com/i4004/JiraTimers) — A desktop cross-platform tool written in C# + QML for recording time spent on different Jira issues.  
 [vscode-theme-pygment](https://github.com/i4004/vscode-theme-pygment) — Visual Studio Code dark theme.  
-[vscode-theme-andaman](https://github.com/i4004/vscode-theme-andaman) — Visual Studio Code dark theme.
+[vscode-theme-andaman](https://github.com/i4004/vscode-theme-andaman) — Visual Studio Code dark theme.  
+[vscode-theme-ruby](https://github.com/i4004/vscode-theme-ruby) — Visual Studio Code dark theme.  
+[vscode-theme-violet](https://github.com/i4004/vscode-theme-violet) — Visual Studio Code dark theme.
 
 ## Music Projects
 
