@@ -33,9 +33,11 @@ C# Developer, Musician, Manjaro Linux, and VS Codium user.
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,powershell,md,npm,html,css,sass,js,angular,bootstrap,ts,svg,cpp)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,linux,md,npm,powershell,html,css,sass,js,angular,bootstrap,cpp)](https://skillicons.dev)
 
-[![My Tools](https://skillicons.dev/icons?i=vscodium,git,gitlab,github,windows,arch,ubuntu,postgres,postman,docker,bitbucket)](https://skillicons.dev)
+[![My Tools](https://go-skill-icons.vercel.app/api/icons?i=manjaro,librewolf,duckduckgo,thunderbird,vscodium,git,github,ubuntu,gitlab,jira,gimp,etcd,postgres)](https://skillicons.dev)
 
-🖥 &nbsp; Double Commander | LibreWolf | GIMP  
-⏺ &nbsp; REAPER | Kdenlive
+[![My Tools Secondary](https://go-skill-icons.vercel.app/api/icons?i=postman,docker,kdenlive,windows,arch,bitbucket)](https://skillicons.dev)
+
+🖥 &nbsp; Double Commander   
+⏺ &nbsp; REAPER
