@@ -18,6 +18,7 @@ C# Developer, Musician, Manjaro Linux, and VS Codium user.
 [vscode-theme-andaman](https://github.com/i4004/vscode-theme-andaman) — Visual Studio Code dark theme.  
 [vscode-theme-ruby](https://github.com/i4004/vscode-theme-ruby) — Visual Studio Code dark theme.  
 [vscode-theme-violet](https://github.com/i4004/vscode-theme-violet) — Visual Studio Code dark theme.
+[vscode-theme-orange](https://github.com/i4004/vscode-theme-orange) — Visual Studio Code dark theme.
 
 ## Music Projects
 
