@@ -32,11 +32,11 @@ C# Developer, Musician, Manjaro Linux, and VS Codium user.
 
 ## 🛠 Tech Stack
 
-[![My Skills and Tools #1](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,linux,vscodium,ai,manjaro,ubuntu,librewolf,github,gitlab,git,jira,thunderbird,gimp)](https://skillicons.dev)
+[![My Skills and Tools #1](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,linux,vscodium,manjaro,ubuntu,librewolf,github,gitlab,git,jira,thunderbird,gimp)](https://skillicons.dev)
 
-[![My Skills and Tools #2](https://go-skill-icons.vercel.app/api/icons?i=md,k8s,etcd,githubactions,duckduckgo,postgres,npm,html,css,sass,js,angular,bootstrap,powershell)](https://skillicons.dev)
+[![My Skills and Tools #2](https://go-skill-icons.vercel.app/api/icons?i=md,k8s,etcd,githubactions,duckduckgo,postgres,npm,html,css,sass,js,angular,powershell)](https://skillicons.dev)
 
-[![My Skills and Tools #3](https://go-skill-icons.vercel.app/api/icons?i=docker,rabbitmq,windows,arch,kdenlive,postman,bitbucket)](https://skillicons.dev)
+[![My Skills and Tools #3](https://go-skill-icons.vercel.app/api/icons?i=rabbitmq,windows,arch,kdenlive,postman,bitbucket)](https://skillicons.dev)
 
 🖥 &nbsp; Double Commander   
 ⏺ &nbsp; REAPER
